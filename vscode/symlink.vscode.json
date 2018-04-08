@@ -3,5 +3,8 @@
     "files.autoSaveDelay": 1000,
     "editor.fontFamily": "Menlo, Monaco, Inconsolata, 'Courier New', monospace",
     "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "materialTheme.cache.workbench.settings": {},
+    "workbench.iconTheme": "material-icon-theme",
     
 }

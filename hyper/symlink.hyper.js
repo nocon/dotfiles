@@ -97,7 +97,7 @@ module.exports = {
       bell: 'SOUND',
 
       // if true, selected text will automatically be copied to the clipboard
-      copyOnSelect: false
+      copyOnSelect: false,
 
       // if true, on right click selected text will be copied or pasted if no
       // selection is present (true by default on Windows)
@@ -118,6 +118,8 @@ module.exports = {
     plugins: [
       'hyper-smyck',
       'hypercwd',
+      'hyperlinks',
+      'hyper-font-smoothing',
     ],
 
     // in development, you can create a directory under
