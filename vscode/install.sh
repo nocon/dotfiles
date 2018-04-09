@@ -6,4 +6,4 @@ brew cask install visual-studio-code
 choco install visualstudiocode
 
 code --install-extension akamud.vscode-theme-onedark
-code --install-extension PKief.material-icon-theme
+code --install-extension teabyii.ayu

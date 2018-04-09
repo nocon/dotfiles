@@ -1,10 +1,26 @@
 {
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
+    "files.trimTrailingWhitespace": true,
+
     "editor.fontFamily": "Menlo, Monaco, Inconsolata, 'Courier New', monospace",
+    "editor.rulers": [80, 100],
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.insertSpaces": false,
+
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Atom One Dark",
-    "materialTheme.cache.workbench.settings": {},
+
+    "workbench.colorTheme": "Ayu Light",
     "workbench.iconTheme": "material-icon-theme",
-    
+
+    "window.nativeTabs": true,
+    "window.restoreFullscreen": true,
+
+    "terminal.external.osxExec": "Hyper.app",
+    "terminal.external.linuxExec": "hyper",
+
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.shell.windows": "cmd.exe",
 }
